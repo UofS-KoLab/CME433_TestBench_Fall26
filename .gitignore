@@ -1,0 +1,15 @@
+transcript
+tags
+work/
+work*/
+*.svf
+dc_files/
+*.txt
+*.log
+alib-52/
+build/
+!models/**/*.txt
+!data/**/*.txt
+__pycache__/
+work_autoread/
+command.log

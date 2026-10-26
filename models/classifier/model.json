@@ -1,0 +1,6 @@
+{
+  "task": "classify",
+  "inputs": 100,
+  "saturate": 0,
+  "labels": "../../data/t10k-labels-idx1-ubyte.gz"
+}

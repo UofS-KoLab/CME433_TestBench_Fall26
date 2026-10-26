@@ -1,0 +1,8 @@
+{
+  "task": "denoise",
+  "inputs": 200,
+  "saturate": 1,
+  "clean": "clean.npy",
+  "noisy": "noisy.npy",
+  "scale": 0.006484785928292591
+}
